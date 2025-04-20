@@ -3,5 +3,5 @@
 #include <iostream>
 
 void print::run(const string& userInput) {
-	cout << "Great job typing " << userInput << "!!";
+	cout << "Great job typing " << userInput << "!!" << endl;
 }
